@@ -1,16 +1,33 @@
 # ohmi
-
+ohmi : on hand movie information
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is related to movies, I think you have probably know from the shots you'll see below.
 
-A few resources to get you started if this is your first Flutter project:
+# Features
+* This application uses Bloc Pattern
+* Responsive UI
+* API Calling (IMDB free api)
+* Youtube Player
+* Streams
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Shot1
+<img src="https://github.com/GautamSinghRathor/ohmi/blob/master/images/shot1.png" width="40%" height="40%" alt="shot1">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Shot2
+<img src="https://github.com/GautamSinghRathor/ohmi/blob/master/images/shot2.png" width="40%" height="40%" alt="shot2">
+
+## Shot3
+<img src="https://github.com/GautamSinghRathor/ohmi/blob/master/images/shot3.png" width="40%" height="40%" alt="shot3">
+
+## Shot4
+<img src="https://github.com/GautamSinghRathor/ohmi/blob/master/images/shot4.png" width="40%" height="40%" alt="shot4">
+
+## Shot5
+<img src="https://github.com/GautamSinghRathor/ohmi/blob/master/images/shot5.png" width="40%" height="40%" alt="shot5">
+
+## Shot6
+<img src="https://github.com/GautamSinghRathor/ohmi/blob/master/images/shot6.png" width="40%" height="40%" alt="shot6">
+
